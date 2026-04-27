@@ -3,3 +3,5 @@
 #2026 - Kevin Aguilera
 
 #Actualizacion desde el navegador
+
+#Soy graduado de tecnico en ingenieria en sistemas
